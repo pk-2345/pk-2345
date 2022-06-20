@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and exploring differents things.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 pk-2345/pk-2345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
