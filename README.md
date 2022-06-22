@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pk-2345
-- 👀 I’m interested in programming and exploring differents things.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to explore various tech stacks...
+- 👋 Hi, I’m Puja from India!
+- 👀 I’m interested in Programming and exploring differents things.
+- 🌱 I’m currently learning Computer Science Engineering.
+- 💞️ I’m looking to explore various Tech Stacks...
 
 
 <!---
