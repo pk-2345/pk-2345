@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Puja from India!
+- 👋 Hi, I’m Puja, an undergrad student!
 - 👀 I’m interested in Programming and exploring differents things.
 - 🌱 I’m currently learning Computer Science Engineering.
 - 💞️ I’m looking to explore various Tech Stacks...
