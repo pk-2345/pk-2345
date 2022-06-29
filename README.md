@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Puja, an undergrad student!
-- 👀 I’m interested in Programming and exploring differents things.
+- 👋 Hi, I’m Puja, an undergrad CSE Student!
+- 👀 I’m interested in exploring Life.
 - 🌱 I’m currently learning Computer Science Engineering.
 - 💞️ I’m looking to explore various Tech Stacks...
 
